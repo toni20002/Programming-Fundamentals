@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Conditional Statements and Loops - Ex\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Conditional Statements and Loops - Ex\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Conditional Statements and Loops - Ex\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Conditional Statements and Loops - Ex\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Conditional Statements and Loops - Ex\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Conditional Statements and Loops - Ex\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.pdb
