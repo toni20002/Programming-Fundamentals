@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Intro and Basic Syntax - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Intro and Basic Syntax - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Intro and Basic Syntax - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Intro and Basic Syntax - Exercises\03. Miles to Kilometers\obj\Debug\03. Miles to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Intro and Basic Syntax - Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\TECH MODULE\Intro and Basic Syntax - Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb
