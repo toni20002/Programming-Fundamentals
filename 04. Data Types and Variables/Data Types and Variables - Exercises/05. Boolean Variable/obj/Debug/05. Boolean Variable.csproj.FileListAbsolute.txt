@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\05. Boolean Variable.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\05. Boolean Variable.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

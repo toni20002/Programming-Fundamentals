@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

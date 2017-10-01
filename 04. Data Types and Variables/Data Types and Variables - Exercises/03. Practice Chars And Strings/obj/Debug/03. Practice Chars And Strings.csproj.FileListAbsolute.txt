@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\03. Practice Chars And Strings.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.pdb

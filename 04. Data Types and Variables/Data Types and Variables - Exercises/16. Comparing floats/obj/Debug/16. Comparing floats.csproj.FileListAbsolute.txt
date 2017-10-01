@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\16. Comparing floats.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\_16.Comparing_floats.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\_16.Comparing_floats.pdb

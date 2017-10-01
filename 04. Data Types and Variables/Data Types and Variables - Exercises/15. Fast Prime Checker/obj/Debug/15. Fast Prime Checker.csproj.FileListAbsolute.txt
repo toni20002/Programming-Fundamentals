@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\15. Fast Prime Checker.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

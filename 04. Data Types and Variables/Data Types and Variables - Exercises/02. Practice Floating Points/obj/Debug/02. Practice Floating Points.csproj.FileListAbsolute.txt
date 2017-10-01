@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\18. Different Integers Size.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb

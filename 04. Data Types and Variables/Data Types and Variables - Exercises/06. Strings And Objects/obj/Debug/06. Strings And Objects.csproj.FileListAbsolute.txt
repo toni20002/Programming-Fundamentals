@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\06. Strings And Objects.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

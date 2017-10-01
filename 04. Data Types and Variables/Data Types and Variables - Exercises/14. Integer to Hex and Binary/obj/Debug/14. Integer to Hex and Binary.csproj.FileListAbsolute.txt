@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+c:\users\user\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+c:\users\user\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\14. Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+c:\users\user\source\repos\Data Types and Variables - Exercises\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb
