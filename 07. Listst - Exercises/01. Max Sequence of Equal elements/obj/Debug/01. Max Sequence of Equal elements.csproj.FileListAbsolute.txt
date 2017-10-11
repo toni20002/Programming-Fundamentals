@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\bin\Debug\_01.Max_Sequence_of_Equal_elements.exe.config
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\bin\Debug\_01.Max_Sequence_of_Equal_elements.exe
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\bin\Debug\_01.Max_Sequence_of_Equal_elements.pdb
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\obj\Debug\01. Max Sequence of Equal elements.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\obj\Debug\01. Max Sequence of Equal elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\obj\Debug\_01.Max_Sequence_of_Equal_elements.exe
+C:\Users\User\source\repos\07. Listst - Exercises\01. Max Sequence of Equal elements\obj\Debug\_01.Max_Sequence_of_Equal_elements.pdb
