@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Programming-Fundamentals\08. Dictionaries Lambda and LINQ exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+C:\Users\User\Desktop\Programming-Fundamentals\08. Dictionaries Lambda and LINQ exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+C:\Users\User\Desktop\Programming-Fundamentals\08. Dictionaries Lambda and LINQ exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+C:\Users\User\Desktop\Programming-Fundamentals\08. Dictionaries Lambda and LINQ exercises\04. Fix Emails\obj\Debug\04. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming-Fundamentals\08. Dictionaries Lambda and LINQ exercises\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+C:\Users\User\Desktop\Programming-Fundamentals\08. Dictionaries Lambda and LINQ exercises\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb
