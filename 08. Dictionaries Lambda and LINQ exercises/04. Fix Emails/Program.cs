@@ -14,7 +14,7 @@ namespace _04.Fix_Emails
             string name = Console.ReadLine();
             while (name != "stop")
             {
-                string email = Console.ReadLine().ToLower();
+                string email = Console.ReadLine();
                 if (!email.EndsWith("uk") && !email.EndsWith("us"))
                 {
                     nameEmail[name] = email;
