@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
-C:\Users\User\Desktop\Programming-Fundamentals\09.  Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb
