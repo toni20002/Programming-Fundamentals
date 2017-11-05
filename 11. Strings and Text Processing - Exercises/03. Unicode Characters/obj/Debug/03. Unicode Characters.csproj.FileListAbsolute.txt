@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

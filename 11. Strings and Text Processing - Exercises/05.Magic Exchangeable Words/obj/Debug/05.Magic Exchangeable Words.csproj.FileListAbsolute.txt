@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\05.Magic Exchangeable Words\bin\Debug\05.Magic Exchangeable Words.exe.config
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\05.Magic Exchangeable Words\bin\Debug\05.Magic Exchangeable Words.exe
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\05.Magic Exchangeable Words\bin\Debug\05.Magic Exchangeable Words.pdb
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\05.Magic Exchangeable Words\obj\Debug\05.Magic Exchangeable Words.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\05.Magic Exchangeable Words\obj\Debug\05.Magic Exchangeable Words.exe
+C:\Users\User\Desktop\Programming-Fundamentals\11. Strings and Text Processing - Exercises\05.Magic Exchangeable Words\obj\Debug\05.Magic Exchangeable Words.pdb
