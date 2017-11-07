@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.exe.config
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.exe
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\bin\Debug\_04.Anonymous_Cache.pdb
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\obj\Debug\04. Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\obj\Debug\04. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\obj\Debug\_04.Anonymous_Cache.exe
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\04. Anonymous Cache\obj\Debug\_04.Anonymous_Cache.pdb

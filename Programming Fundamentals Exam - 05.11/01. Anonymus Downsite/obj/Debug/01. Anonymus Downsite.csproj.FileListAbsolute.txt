@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\bin\Debug\_01.Anonymus_Downsite.exe.config
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\bin\Debug\_01.Anonymus_Downsite.exe
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\bin\Debug\_01.Anonymus_Downsite.pdb
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\obj\Debug\01. Anonymus Downsite.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\obj\Debug\01. Anonymus Downsite.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\obj\Debug\_01.Anonymus_Downsite.exe
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\01. Anonymus Downsite\obj\Debug\_01.Anonymus_Downsite.pdb

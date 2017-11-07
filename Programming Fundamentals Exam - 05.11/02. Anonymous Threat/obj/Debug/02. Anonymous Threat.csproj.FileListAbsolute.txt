@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\02. Anonymous Threat\bin\Debug\_02.Anonymous_Threat.exe.config
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\02. Anonymous Threat\bin\Debug\_02.Anonymous_Threat.exe
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\02. Anonymous Threat\bin\Debug\_02.Anonymous_Threat.pdb
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\02. Anonymous Threat\obj\Debug\02. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\02. Anonymous Threat\obj\Debug\_02.Anonymous_Threat.exe
+C:\Users\User\Desktop\Programming-Fundamentals\Programming Fundamentals Exam - 05.11\02. Anonymous Threat\obj\Debug\_02.Anonymous_Threat.pdb
